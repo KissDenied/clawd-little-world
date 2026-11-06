@@ -1,0 +1,100 @@
+{
+  "watering": {
+    "width": 35,
+    "height": 23,
+    "frames": 137,
+    "fps": 12,
+    "x": 6.0,
+    "y": -3
+  },
+  "confetti": {
+    "width": 41,
+    "height": 37,
+    "frames": 34,
+    "fps": 12,
+    "x": -3.0,
+    "y": -17
+  },
+  "sparkler": {
+    "width": 35,
+    "height": 31,
+    "frames": 73,
+    "fps": 12,
+    "x": 6.0,
+    "y": -11
+  },
+  "computer": {
+    "width": 34,
+    "height": 23,
+    "frames": 43,
+    "fps": 12,
+    "x": 6.0,
+    "y": -3
+  },
+  "desktop": {
+    "width": 36,
+    "height": 16,
+    "frames": 88,
+    "fps": 12,
+    "x": 6.0,
+    "y": 4
+  },
+  "space": {
+    "width": 40,
+    "height": 33,
+    "frames": 131,
+    "fps": 12,
+    "x": -3.0,
+    "y": -13
+  },
+  "soccer": {
+    "width": 34,
+    "height": 23,
+    "frames": 61,
+    "fps": 12.007874015748031,
+    "x": 1.0,
+    "y": -3,
+    "animation": "clawd-source-soccer"
+  },
+  "detective": {
+    "width": 36,
+    "height": 27,
+    "frames": 113,
+    "fps": 12.008501594048884,
+    "x": 2.0,
+    "y": -7,
+    "animation": "clawd-source-detective"
+  },
+  "chef": {
+    "width": 31,
+    "height": 30,
+    "frames": 42,
+    "fps": 12,
+    "x": -1.0,
+    "y": -10
+  },
+  "weld": {
+    "width": 33,
+    "height": 28,
+    "frames": 60,
+    "fps": 12,
+    "x": -3.0,
+    "y": -4
+  },
+  "hero": {
+    "width": 24,
+    "height": 30,
+    "frames": 60,
+    "fps": 12,
+    "x": 6.0,
+    "y": -6
+  },
+  "wizard": {
+    "width": 26,
+    "height": 32,
+    "frames": 60,
+    "fps": 12,
+    "x": 6.0,
+    "y": -12
+  }
+}
